@@ -51,15 +51,16 @@ html{
   justify-content: center;
   align-items: center;
   padding: 50px;
-  background: radial-gradient(circle at center, url(../../../../../Downloads/ABD (1).png), transparent 70%);
-  border-radius: 50%;
+  background: radial-gradient(circle at center, url("./ABD\ \(1\).png"), transparent 70%);
+  border-radius: 50px ;
   border: #000 4px;
+
 }
 
 .my-profile {
   width: 30vh;                         /* adjust size as you like */
   height: 50vh;
-  background: ;               /* make sure background is clear */
+  background: rgba(255, 223, 112, 1) ;               /* make sure background is clear */
   border: none;
   border-radius: 50%;                   /* soft rounded corners */
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.4);  /* realistic soft shadow */

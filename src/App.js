@@ -37,7 +37,7 @@ function App() {
       <div className="home-section">
         <div className="image-container">
           <div className="image-section">
-            <img src={profile} alt="profile" className="my-profile" />
+            {/* <img src={profile} alt="profile" className="my-profile" /> */}
           </div>
           <div className="profile-detail">
             <h1 className="intro">
